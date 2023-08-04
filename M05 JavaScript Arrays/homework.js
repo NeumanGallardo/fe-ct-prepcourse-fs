@@ -171,6 +171,7 @@ function mesesDelAño(array) {
    return NewArray;
    else
    return 'No se encontraron los meses pedidos';
+hjgjghj
 }
 
 function tablaDelSeis() {
