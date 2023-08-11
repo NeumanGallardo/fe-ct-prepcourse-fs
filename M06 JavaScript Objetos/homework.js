@@ -142,7 +142,8 @@ function agregarMetodoCalculoDescuento(objetoProducto) {
    function()
    {var descuento=objetoProducto.precio*objetoProducto.porcentajeDeDescuento;
    var precioTotal=objetoProducto.precio-descuento;
-   return precioTotal;}
+   return precioTotal;
+   }
       return objetoProducto;
 }
 
